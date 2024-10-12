@@ -16,6 +16,7 @@ const login = async (credentials) => {
       credentials.password,
       user.password
     );
+    console.log('isPasswordCorrect:',isPasswordCorrect);
 
     if (!isPasswordCorrect) throw new Error("Wrong credentials!");
 
