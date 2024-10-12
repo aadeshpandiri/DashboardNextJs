@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "670a49a1fef853fa921abe3e"
+  },
+  "username": "john",
+  "email": "john@gmail.com",
+  "img": "https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/",
+  "isActive": true,
+  "isAdmin": false,
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "670a4b74fef853fa921abe3f"
+  },
+  "username": "mike",
+  "email": "mike@gmail.com",
+  "img": "https://www.pexels.com/photo/toddle-wearing-gray-button-collared-shirt-with-curly-hair-35537/",
+  "isActive": true,
+  "isAdmin": false,
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "670a4b81fef853fa921abe40"
+  },
+  "username": "laura",
+  "email": "laura@gmail.com",
+  "img": "https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/",
+  "isActive": true,
+  "isAdmin": false,
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "670a4b8cfef853fa921abe41"
+  },
+  "username": "aadesh",
+  "email": "aadesh@gmail.com",
+  "img": "https://www.pexels.com/photo/photo-of-a-man-listening-music-on-his-phone-846741/",
+  "isActive": true,
+  "isAdmin": true,
+  "password": "$2b$10$gEDT3k43ABqb4laChZn7jeoAVjR6A2uEH8UC4y8ULZW9owY9nu2/y",
+  "updatedAt": {
+    "$date": "2024-10-12T16:01:21.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670a4b9bfef853fa921abe42"
+  },
+  "username": "sandhya",
+  "email": "sandhya@gmail.com",
+  "img": "https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/",
+  "isActive": true,
+  "isAdmin": false,
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "670a4bc3fef853fa921abe43"
+  },
+  "username": "annie",
+  "email": "annie@gmail.com",
+  "img": "https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/",
+  "isActive": true,
+  "isAdmin": false,
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "670a9f8bd266eaf06dc9380b"
+  },
+  "username": "aadeshpandiri",
+  "email": "aadeshpandiri@gmail.com",
+  "password": "$2b$10$gEDT3k43ABqb4laChZn7jeoAVjR6A2uEH8UC4y8ULZW9owY9nu2/y",
+  "isAdmin": true,
+  "isActive": true,
+  "phone": "9866485123",
+  "address": "hno 1-5-443/4 sri colony ramareddy road kamareddy 503111",
+  "createdAt": {
+    "$date": "2024-10-12T16:10:51.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T16:10:51.774Z"
+  },
+  "__v": 0,
+  "img": "https://www.pexels.com/photo/photo-of-a-man-listening-music-on-his-phone-846741/"
+}]

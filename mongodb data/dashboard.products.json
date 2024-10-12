@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "670a563bfef853fa921abe44"
+  },
+  "title": "Iphone",
+  "desc": "Description",
+  "price": 55,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "670a568dfef853fa921abe45"
+  },
+  "title": "Samsung",
+  "desc": "Description",
+  "price": 20,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "670a56b0fef853fa921abe46"
+  },
+  "title": "Iphone1",
+  "desc": "Description",
+  "price": 55,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "670a56befef853fa921abe47"
+  },
+  "title": "Iphone3",
+  "desc": "Description",
+  "price": 55,
+  "stock": 100
+}]
